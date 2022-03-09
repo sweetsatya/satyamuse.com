@@ -20,7 +20,6 @@ for file in files:
     for stanza in stanzas:
         if len(stanza.replace("\n", "")) == 0:
             continue
-        print('<p>')
         print('<ul class="lyrics">')
 
         for line in stanza.split('\n'):
@@ -29,4 +28,4 @@ for file in files:
             print('</li>')
 
         print('</ul>')
-        print('</p>')
+        print()
