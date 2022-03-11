@@ -12,4 +12,4 @@ insert() {
 }
 
 # insert main.css template.html '{{style}}' > /tmp/index0.html
-insert lyrics.html template.html '{{lyrics}}' > index.html
+insert lyrics.html template.html '{{lyrics}}'
