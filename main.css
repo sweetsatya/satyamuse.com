@@ -107,8 +107,8 @@ ul.lyrics {
     display: flex;
     padding-top: 20px;
     padding-bottom: 20px;
-    box-shadow: 0 0 2000px 5px rgba(249, 171, 171, 0.9) inset;
-    background-color: rgb(255, 200, 200);
+    box-shadow: 0 0 20px 5px rgba(249, 171, 171, 0.9);
+    background-color: rgb(255, 215, 0);
     width: 200px;
     transform: translate(-150%);
     display: flex;
