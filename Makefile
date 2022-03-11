@@ -1,7 +1,7 @@
 build: index.html lyrics.html
 	@echo "salem satya, your website is ready"
 
-index.html: template.html lyrics.html
+index.html: template.html lyrics.html main.css
 	@echo "generating index.html from templates.."
 	@bash scripts/generate_html.sh > index.html
 
