@@ -17,7 +17,10 @@ for file in files:
     with open(file) as f:
         stanzas=f.read().split('\n\n')
 
-    for stanza in stanzas:
+    # We assume that the first line of the file is the song's title
+    title = stanzas[0]
+    print(f'<h1>{title}</h1>')
+    for stanza in stanzas[1:]:
         if len(stanza.replace("\n", "")) == 0:
             continue
         print('<ul class="lyrics">')
