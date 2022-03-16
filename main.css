@@ -101,14 +101,33 @@ ul.lyrics {
     transition: transform 0.4s ease-in-out;
 }
 
+#home .flex-wrap {
+    /* use flexible box layout */
+    display: flex;
+    /* let items flow horizontally */
+    flex-direction: row;
+    /* allow items to wrap over into multiple rows */
+    flex-wrap: wrap;
+}
+
 #home .half-width {
-    float: left;
-    width: 50%;
-    /* border: thin black dotted; */
+    /* use standard proportion for growing in width */
+    flex-grow: 1;
+    /* by default our horizontal space should be 50% */
+    flex-basis: 50%;
+    background: tomato;
+    height: 250px;
+}
+
+#home .image {
+    background:rgb(255, 215, 0);
 }
 
 #home .full-width {
-    /* border: thin red solid; */
+    /* use twice standard proportion for growing in width */
+    flex-grow: 2;
+    height: 250px;
+    background: aqua;
 }
 
 hr.spacer {
