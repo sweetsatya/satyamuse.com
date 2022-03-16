@@ -100,6 +100,21 @@ ul.lyrics {
     transition: transform 0.4s ease-in-out;
 }
 
+#home .half-width {
+    float: left;
+    width: 50%;
+    /* border: thin black dotted; */
+}
+
+#home .full-width {
+    /* border: thin red solid; */
+}
+
+hr.spacer {
+    border: none;
+    clear: left;
+}
+
 .navbar ul {
     padding: 0;
 }
