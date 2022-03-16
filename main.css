@@ -1,5 +1,6 @@
 body {
     font-family: 'Courier New', Courier, monospace;
+    margin: 0;
 }
 
 ul.lyrics {
@@ -184,4 +185,8 @@ hr.spacer {
 
 .nav-container input[type="checkbox"]:checked ~ .hamburger-lines .line3 {
     transform: rotate(-45deg);
+}
+
+#footer {
+    margin: 20px;
 }
