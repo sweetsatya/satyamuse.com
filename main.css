@@ -130,7 +130,7 @@ ul.lyrics {
 }
 
 #home .image {
-    background:rgb(255, 215, 0);
+    background-image: linear-gradient(to bottom right, #ff7d4a, #f7e2e2)
 }
 
 #home .full-width {
@@ -188,6 +188,7 @@ hr.spacer {
     flex-grow: 1;
     /* Hide all pages initially */
     display: none;
+    width: 100%;
 }
 
 /* Show the default page and the one the user clicked on */
@@ -217,6 +218,14 @@ hr.spacer {
 }
 
 #footer {
-    margin-left: 20px;
+    margin: 20px;
     flex-grow: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#footer a {
+    display: block;
+    margin: 10px;
 }
