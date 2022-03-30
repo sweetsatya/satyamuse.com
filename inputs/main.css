@@ -14,6 +14,10 @@ nav {
     flex-grow: 0;
 }
 
+a:visited {
+    color: black;
+}
+
 ul.lyrics {
     list-style-type: none;
     padding-left: 0;
@@ -185,7 +189,7 @@ hr.spacer {
 }
 
 /* Show the default page and the one the user clicked on */
-.default, :target {
+.default, .page:target {
     display: block;
 }
 

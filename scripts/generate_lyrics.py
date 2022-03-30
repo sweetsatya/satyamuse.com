@@ -18,10 +18,12 @@ for file in sorted(files, reverse=True):
     with open(file) as f:
         stanzas=f.read().split('\n\n')
 
+
     # We assume that the first line of the file is the song's title
     title = stanzas[0]
     titleAnchor = title.lower().replace(' ', '_')
-    print(f'<h3 id="{titleAnchor}">{title}</h3>')
+    print(f'<div id="{titleAnchor}" class="page">')
+    print(f'<a href="#{titleAnchor}"><h3>{title}</h3></a>')
     for stanza in stanzas[1:]:
         if len(stanza.replace("\n", "")) == 0:
             continue
@@ -34,3 +36,5 @@ for file in sorted(files, reverse=True):
 
         print('</ul>')
         print()
+    print('<p><a href="#music">(back)</a></p>')
+    print('</div>')
