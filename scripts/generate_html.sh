@@ -11,5 +11,4 @@ insert() {
     { head -n $(($line-1)) $2; cat $1; tail -n +$(($line+1)) $2; }
 }
 
-# insert main.css template.html '{{style}}' > /tmp/index0.html
-insert lyrics.html template.html '{{lyrics}}'
+insert lyrics.html inputs/template.html '{{lyrics}}'

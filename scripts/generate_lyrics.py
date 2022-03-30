@@ -11,7 +11,7 @@ import sys
 if len(sys.argv) == 2:
     files = [ sys.argv[1] ]
 else:
-    files = glob.glob('lyrics/*.txt')
+    files = glob.glob('inputs/lyrics/*.txt')
 
 for file in files:
     with open(file) as f:
