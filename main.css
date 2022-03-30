@@ -115,27 +115,20 @@ ul.lyrics {
 #home .flex-wrap {
     /* use flexible box layout */
     display: flex;
-    /* let items flow horizontally */
-    flex-direction: row;
-    /* allow items to wrap over into multiple rows */
-    flex-wrap: wrap;
-}
-
-#home .half-width {
-    /* use standard proportion for growing in width */
-    flex-grow: 1;
-    /* by default our horizontal space should be 50% */
-    flex-basis: 50%;
-    background: tomato;
-}
-
-#home .image {
-    background-image: linear-gradient(to bottom right, #ff7d4a, #f7e2e2)
+    /* let items flow vertically */
+    flex-direction: column;
 }
 
 #home .full-width {
-    /* use twice standard proportion for growing in width */
-    flex-grow: 2;
+    /* by default our horizontal space should be 100% */
+    flex-basis: 100%;
+}
+
+#home .image {
+    background-image: linear-gradient(to bottom right, #ff7d4a, #f7e2e2);
+}
+
+#home .news {
     background: aqua;
 }
 

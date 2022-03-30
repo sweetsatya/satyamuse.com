@@ -1,6 +1,10 @@
+# 'make' runs the 'make build' goal by default
+.DEFAULT_GOAL=build
+
 build: index.html lyrics.html
 	@echo "salem satya, your website is ready"
 
+# we build the index.html file with template.html, lyrics.html and main.css as inputs
 index.html: template.html lyrics.html main.css
 	@echo "generating index.html from templates.."
 	@bash scripts/generate_html.sh > index.html
