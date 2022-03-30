@@ -11,15 +11,17 @@ import sys
 if len(sys.argv) == 2:
     files = [ sys.argv[1] ]
 else:
+    # todo: we want a certain order for the lyrics..
     files = glob.glob('inputs/lyrics/*.txt')
 
-for file in files:
+for file in sorted(files, reverse=True):
     with open(file) as f:
         stanzas=f.read().split('\n\n')
 
     # We assume that the first line of the file is the song's title
     title = stanzas[0]
-    print(f'<h1>{title}</h1>')
+    titleAnchor = title.lower().replace(' ', '_')
+    print(f'<h3 id="{titleAnchor}">{title}</h3>')
     for stanza in stanzas[1:]:
         if len(stanza.replace("\n", "")) == 0:
             continue
