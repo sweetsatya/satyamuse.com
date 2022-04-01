@@ -4,8 +4,8 @@
 build: index.html lyrics.html
 	@echo "salem satya, your website is ready"
 
-# we build the index.html file with template.html, lyrics.html and main.css as inputs
-index.html: lyrics.html inputs/template.html inputs/main.css
+# we build the index.html file with template.html, lyrics.html, main.css and main.js as inputs
+index.html: lyrics.html inputs/template.html inputs/main.css inputs/main.js
 	@echo "generating index.html from templates.."
 	@bash scripts/generate_html.sh > index.html
 
