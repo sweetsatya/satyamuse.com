@@ -23,7 +23,7 @@ for file in sorted(files, reverse=True):
     title = stanzas[0]
     titleAnchor = title.lower().replace(' ', '_')
     print(f'<div id="{titleAnchor}" class="page">')
-    print(f'<a href="#{titleAnchor}"><h3>{title}</h3></a>')
+    print(f'<h2>{title}</h2>')
     for stanza in stanzas[1:]:
         if len(stanza.replace("\n", "")) == 0:
             continue
