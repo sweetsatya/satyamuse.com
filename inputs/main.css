@@ -144,19 +144,6 @@ a:hover {
     flex-basis: 100%;
 }
 
-#home .image {
-    background-image: linear-gradient(to bottom right, #ff7d4a, #f7e2e2);
-}
-
-#home .news {
-    background: aqua;
-}
-
-hr.spacer {
-    border: none;
-    clear: left;
-}
-
 .navbar ul {
     padding: 0;
 }
@@ -172,7 +159,7 @@ hr.spacer {
     flex-direction: column;
     transition: transform 0.5s ease-in-out;
     text-align: center;
-    margin-left: -25px;
+    margin-left: -20px;
 }
 
 .navbar .menu-items li {
@@ -203,6 +190,7 @@ hr.spacer {
     /* Hide all pages initially */
     display: none;
     width: 100%;
+    background-image: linear-gradient(255deg, #F9EDED, #FFD8D8);
 }
 
 /* Show the default page and the one the user clicked on */
