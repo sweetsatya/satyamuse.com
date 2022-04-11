@@ -152,9 +152,9 @@ a:hover {
     display: flex;
     padding-top: 20px;
     padding-bottom: 20px;
-    box-shadow: 10px 10px 5px rgba(249, 171, 171, 0.9);
+    box-shadow: 10px 10px 5px rgba(244, 194, 194, 0.9);
     /* background-color: rgb(255, 215, 0); */ /* gold */
-    background-color: #F4C2C2;
+    background-color: #FFCFCF;
     width: 190px;
     transform: translate(-150%);
     display: flex;
