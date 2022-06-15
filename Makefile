@@ -2,7 +2,7 @@
 .DEFAULT_GOAL=build
 
 build: index.html lyrics.html
-	@echo "salem satya, your website is ready"
+	@echo "salem satya, your website is ready as index.html"
 
 # we build the index.html file with template.html, lyrics.html, main.css and main.js as inputs
 index.html: lyrics.html inputs/template.html inputs/main.css inputs/main.js
