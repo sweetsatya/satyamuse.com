@@ -1,56 +1,75 @@
-Om
-Aindu karattanai
-Aanai muhattanai
-Indin ilampirai
-Pondra eyitrinai
-Nandi mahandanai
-Jnana kozhundinai
-Pundyil vaittadi
-Potruhinrene
-
-Aindu karattanai
-Aanai muhattanai
-Indin ilampirai
-Pondra eyitrinai
-Nandi mahandanai
-Jnana kozhundinai
-Pundyil vaittadi
-Potruhinrene
-
-Lambodara
-Lambo lambodara
-Ekadanta
-Eka ekadanta
-Dvaimatura
-Dvai dvaimatura
-
-Lambodara
-Lambo lambodara
-Ekadanta
-Eka ekadanta
-Dvaimatura
-Dvai dvaimatura
-
-Aindu karattanai
-Aanai muhattanai
-Indin ilampirai
-Pondra eyitrinai
-Nandi mahandanai
-Jnana kozhundinai
-Pundyil vaittadi
-Potruhinrene
-
-Lambodara
-Lambo lambodara
-Ekadanta
-Eka ekadanta
-Dvaimatura
-Dvai dvaimatura
-
-Om gam ganapataye namaha
-Om gam ganapataye namaha
-Om gam ganapataye namaha
-Om gam ganapataye namaha
+# Lambodara
+## Lyrics
 
 Om
 
+Aindu karattanai
+Aanai muhattanai
+Indin ilampirai
+Pondra eyitrinai
+Nandi mahandanai
+Jnana kozhundinai
+Pundyil vaittadi
+Potruhinrene
+
+Aindu karattanai
+Aanai muhattanai
+Indin ilampirai
+Pondra eyitrinai
+Nandi mahandanai
+Jnana kozhundinai
+Pundyil vaittadi
+Potruhinrene
+
+Lambodara
+Lambo lambodara
+Ekadanta
+Eka ekadanta
+Dvaimatura
+Dvai dvaimatura
+
+Lambodara
+Lambo lambodara
+Ekadanta
+Eka ekadanta
+Dvaimatura
+Dvai dvaimatura
+
+Aindu karattanai
+Aanai muhattanai
+Indin ilampirai
+Pondra eyitrinai
+Nandi mahandanai
+Jnana kozhundinai
+Pundyil vaittadi
+Potruhinrene
+
+Lambodara
+Lambo lambodara
+Ekadanta
+Eka ekadanta
+Dvaimatura
+Dvai dvaimatura
+
+Om gam ganapataye namaha
+Om gam ganapataye namaha
+Om gam ganapataye namaha
+Om gam ganapataye namaha
+
+Om
+
+## Translation
+
+Him, who has arms five,
+Whose face is that of an elephant
+Whose single tusk equals the charm of the crescent moon,
+Who is the offspring of the Blissful Lord,
+Who is wisdom overflowing
+I worship (by) keeping His feet
+Inside my consciousness (mind)
+
+## Credits
+
+Lyrics: Tirumalar (Tirumandiram), Satya
+Music: Satya
+Translation: Srivatsa Ramaswami, Satya
