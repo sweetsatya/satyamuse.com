@@ -3,7 +3,7 @@ function init() {
     // header remains in view after clicking an anchor
     let scrollToHeader = function(event) {
         setTimeout(function() {
-        window.scrollTo(0, 0);
+            window.scrollTo(0, 0);
         }, 3);
     };
     // for every <a> element, scroll to header after it's clicked
