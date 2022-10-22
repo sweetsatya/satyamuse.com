@@ -50,7 +50,8 @@ def parseFile(file):
 
         # If a line begins with '##' it's assumed to be a subtitle
         if lines[0][0:2] == "##":
-            assert len(lines) == 1, f'Line with "##" should be in its own stanza'
+            print(f'Processing first line "{lines[0]}"', file=sys.stderr)
+            assert len(lines) == 1, f'Line with "##" should be in its own stanza; please put newlines around "{lines[0]}"'
             subHeading = lines[0][2:].lstrip()
             print(f'Adding sub-header "{subHeading}"', file=sys.stderr)
             result.append(f'<h3>{subHeading}</h3>')
