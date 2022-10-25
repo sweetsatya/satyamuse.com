@@ -8,12 +8,14 @@ Indin ilampirai pondra eyitrinai
 Nandi mahandanai
 Jnanakkozhundinai
 Pundyil vaittadi potruhinrene
+Pundyil vaittadi potruhinrene
 
 Aindu karattanai
 Aanai muhattanai
 Indin ilampirai pondra eyitrinai
 Nandi mahandanai
 Jnanakkozhundinai
+Pundyil vaittadi potruhinrene
 Pundyil vaittadi potruhinrene
 
 Lambodara
@@ -35,6 +37,7 @@ Aanai muhattanai
 Indin ilampirai pondra eyitrinai
 Nandi mahandanai
 Jnanakkozhundinai
+Pundyil vaittadi potruhinrene
 Pundyil vaittadi potruhinrene
 
 Lambodara
