@@ -4,21 +4,17 @@ Om
 
 Aindu karattanai
 Aanai muhattanai
-Indin ilampirai
-Pondra eyitrinai
+Indin ilampirai pondra eyitrinai
 Nandi mahandanai
-Jnana kozhundinai
-Pundyil vaittadi
-Potruhinrene
+Jnanakkozhundinai
+Pundyil vaittadi potruhinrene
 
 Aindu karattanai
 Aanai muhattanai
-Indin ilampirai
-Pondra eyitrinai
+Indin ilampirai pondra eyitrinai
 Nandi mahandanai
-Jnana kozhundinai
-Pundyil vaittadi
-Potruhinrene
+Jnanakkozhundinai
+Pundyil vaittadi potruhinrene
 
 Lambodara
 Lambo lambodara
@@ -36,12 +32,10 @@ Dvai dvaimatura
 
 Aindu karattanai
 Aanai muhattanai
-Indin ilampirai
-Pondra eyitrinai
+Indin ilampirai pondra eyitrinai
 Nandi mahandanai
-Jnana kozhundinai
-Pundyil vaittadi
-Potruhinrene
+Jnanakkozhundinai
+Pundyil vaittadi potruhinrene
 
 Lambodara
 Lambo lambodara
