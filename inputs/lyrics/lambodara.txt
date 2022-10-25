@@ -1,5 +1,4 @@
 # Lambodara
-## Lyrics
 
 Om
 
@@ -58,7 +57,7 @@ Om gam ganapataye namaha
 
 Om
 
-## Translation
+## English Translation
 
 Om
 
@@ -81,5 +80,4 @@ Om
 ## Credits
 
 Lyrics: Tirumalar (Tirumandiram), Satya
-Music: Satya
 Translation: Srivatsa Ramaswami, Satya

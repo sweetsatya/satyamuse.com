@@ -1,5 +1,4 @@
 # Lila
-## Lyrics
 
 Veil after veil after veil after veil
 Round and round and round we go
@@ -38,4 +37,3 @@ Round and round and round we go
 ## Credits
 
 Lyrics: Satya
-Music: Satya
