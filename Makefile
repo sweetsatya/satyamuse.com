@@ -11,6 +11,6 @@ index.html: lyrics.html inputs/template.html inputs/main.css inputs/main.js
 
 # Generate lyrics.html as output if any of the files in lyrics/ directory changed
 # Ideal would be to not need to list all the files as inputs into lyrics.html
-lyrics.html: inputs/lyrics/lambodara.txt inputs/lyrics/lila.txt inputs/lyrics/edge_of_chaos.txt inputs/lyrics/panta_rhei.txt
+lyrics.html: inputs/lyrics/lambodara.txt inputs/lyrics/lila.txt inputs/lyrics/edge_of_chaos.txt inputs/lyrics/panta_rhei.txt inputs/lyrics/phoenix.txt
 	@echo "generating $@ from lyrics/.."
 	python3 scripts/generate_lyrics.py > lyrics.html
