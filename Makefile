@@ -5,6 +5,9 @@ build: index.html
 	@echo "salem satya, your website is ready as index.html"
 
 # we build the index.html file with template.html, lyrics.html, main.css and main.js as inputs
+#
+# We would want to have a pre-commit hook or similar to check that there's no diff between the text file and generated outputs
+# when doing 'git commit' due to modified inputs
 index.html: lyrics.html inputs/template.html inputs/main.css inputs/main.js
 	@echo "generating index.html from templates.."
 	@bash scripts/generate_html.sh > index.html
