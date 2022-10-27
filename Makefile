@@ -2,7 +2,7 @@
 .DEFAULT_GOAL=build
 
 SONGS := inputs/lyrics/lambodara.txt inputs/lyrics/lila.txt inputs/lyrics/edge_of_chaos.txt
-SONGS := $(SONGS) inputs/lyrics/panta_rhei.txt inputs/lyrics/phoenix.txt inputs/lyrics/belye_krylya.txt
+SONGS := $(SONGS) inputs/lyrics/panta_rhei.txt inputs/lyrics/phoenix.txt inputs/lyrics/belye_krylya.txt inputs/lyrics/v_stepi.txt
 
 build: index.html
 	@echo "salem satya, your website is ready as index.html"
