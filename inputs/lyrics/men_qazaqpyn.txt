@@ -1,6 +1,5 @@
 # Men Qazaqpyn
 
-
 Men qazaqpyn
 Myň ölip, myň tïrïlgen
 Jörgegïmde
@@ -22,3 +21,53 @@ Qypshaq, Arǧyn, Aǐderke
 Qypshaq, Arǧyn, Qyryqmyltyq
 Qypshaq, Arǧyn, Aǐderke
 Qypshaq, Arǧyn, Qyryqmyltyq
+
+# English translation
+
+I am Kazakh
+I have died
+And been reborn
+A thousand times
+In my cradle
+I have tasted sorrow
+The cry of my heart
+Causes a solar eclipse
+My laughter
+Dispels the night
+
+I am a beauty
+With mischievous green eyes
+When I sing
+Words flow like honey from my lips
+Once I love
+I love for life
+I have sharpened weapons
+In the company of mighty warriors
+
+My clan is vast
+With illustrious names
+My temper is rough
+Like mountain peaks
+
+# Russian Translation
+
+Я — казах.
+Горечь жизни вкусил я с пеленок.
+Умирал и рождался я тысячу раз.
+Я смеялся —
+и свет возникал из потемок.
+Плакал — слезы лились
+и у солнца из глаз.
+
+Я — казах.
+Чья душа — чистый образ невесты,
+той покорной и тихой,
+чьи сладки уста,
+что умела любить и с мужчиною вместе,
+если надо, могла наточить ай-балта.
+
+# Credits
+
+Lyrics: Jǔban Moldaǧaliev, Satya
+English Translation: Satya
+Russian Translation: Rimma Kazakova
