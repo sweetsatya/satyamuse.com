@@ -22,7 +22,7 @@ Qypshaq, Arǧyn, Qyryqmyltyq
 Qypshaq, Arǧyn, Aǐderke
 Qypshaq, Arǧyn, Qyryqmyltyq
 
-# English translation
+## English translation
 
 I am Kazakh
 I have died
@@ -49,7 +49,7 @@ With illustrious names
 My temper is rough
 Like mountain peaks
 
-# Russian Translation
+## Russian Translation
 
 Я — казах.
 Горечь жизни вкусил я с пеленок.
@@ -66,7 +66,7 @@ Like mountain peaks
 что умела любить и с мужчиною вместе,
 если надо, могла наточить ай-балта.
 
-# Credits
+## Credits
 
 Lyrics: Jǔban Moldaǧaliev, Satya
 English Translation: Satya
