@@ -1,9 +1,7 @@
 # 'make' runs the 'make build' goal by default
 .DEFAULT_GOAL=build
 
-SONGS := inputs/lyrics/lambodara.txt inputs/lyrics/lila.txt inputs/lyrics/edge_of_chaos.txt
-SONGS := $(SONGS) inputs/lyrics/panta_rhei.txt inputs/lyrics/phoenix.txt inputs/lyrics/belye_krylya.txt inputs/lyrics/v_stepi.txt
-SONGS := $(SONGS) inputs/lyrics/men_qazaqpyn.txt
+SONGS := $(shell find inputs/lyrics/ -name '*.txt')
 
 build: index.html
 	@echo "salem satya, your website is ready as index.html"
