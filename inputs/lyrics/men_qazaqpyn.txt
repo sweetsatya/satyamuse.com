@@ -39,10 +39,10 @@ Erteňïmdï sodan da artyq körem
 Aru – jolda, mal - terde, bala - belde
 Uaǐym tübï - teňïz ǧoǐ, bara berme
 
-Qypshaq, Arḡyn, Aǐderke
-Qypshaq, Arḡyn, Qyryqmyltyq
-Qypshaq, Arḡyn, Aǐderke
-Qypshaq, Arḡyn, Qyryqmyltyq
+Qypshaq, Arǧyn, Aǐderke
+Qypshaq, Arǧyn, Qyryqmyltyq
+Qypshaq, Arǧyn, Aǐderke
+Qypshaq, Arǧyn, Qyryqmyltyq
 
 Men qazaqpyn
 Qanymen, süǐegïmen
@@ -95,9 +95,9 @@ With illustrious names
 My temper is rough
 Like mountain peaks
 
-Kipchak, Argyn, Aǐderke
+Kipchak, Argyn, Aiderke
 Kipchak, Argyn, Kirikmiltik
-Kipchak, Argyn, Aǐderke
+Kipchak, Argyn, Aiderke
 Kipchak, Argyn, Kirikmiltik
 
 I am Kazakh
