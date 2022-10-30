@@ -24,6 +24,8 @@ Qypshaq, Arǧyn, Qyryqmyltyq
 
 ## English translation
 
+## I am Kazakh
+
 I am Kazakh
 I have died
 And been reborn
@@ -50,6 +52,8 @@ My temper is rough
 Like mountain peaks
 
 ## Russian Translation
+
+## Я — казах
 
 Я — казах.
 Горечь жизни вкусил я с пеленок.
