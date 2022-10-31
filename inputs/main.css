@@ -76,6 +76,10 @@ a:hover {
     font-weight: bolder;
 }
 
+ol {
+    list-style-position: inside;
+}
+
 .tracklist {
     font-size: 1.5rem;
 }
