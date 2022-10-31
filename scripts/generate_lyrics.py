@@ -48,6 +48,7 @@ def parseFile(file):
             continue
         lines = stanza.split('\n')
 
+        # TODO: add parsing of "[x](link)" -> '<a href="link">x</a>'
         # If a line begins with '##' it's assumed to be a subtitle
         if lines[0][0:2] == "##":
             print(f'Processing first line "{lines[0]}"', file=sys.stderr)

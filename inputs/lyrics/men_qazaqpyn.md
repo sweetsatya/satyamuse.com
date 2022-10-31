@@ -256,3 +256,14 @@ And tell stories of old
 Lyrics: Jǔban Moldaǧaliev, Satya
 English Translation: Satya
 Russian Translation: Rimma Kazakova
+
+## Notes
+
+Kipchak, Argyn (Aiderke, Kirikmiltik) are the names of my tribes, from both matrilineal and patrilineal sides.
+The second verse originally had “qara köz” (black eyes); it’s been changed to “jasyl köz” (green eyes).
+
+## Sources
+
+<a target="_blank" href="https://bilim-all.kz/olen/1846-Men-%E2%80%93-qazaqpyn">The original poem by Jǔban Moldaǧaliev in Kazakh (In Cyrillic)</a>
+
+<a target="_blank" href="http://pushkinlibrary.kz/exhibitions/Zhuban/poema.html">Russian translation by Rimma Kazakova</a>
