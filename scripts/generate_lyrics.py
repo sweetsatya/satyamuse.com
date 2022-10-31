@@ -12,7 +12,7 @@ if len(sys.argv) == 2:
     files = [ sys.argv[1] ]
 else:
     # todo: we want a certain order for the lyrics..
-    files = glob.glob('inputs/lyrics/*.txt')
+    files = [f for f in glob.glob('inputs/lyrics/*.md') if not f.endswith('README.md')]
 
 def parseTitle(lines):
     """Parse the title and any subheadings from lines of text.
