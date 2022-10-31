@@ -157,7 +157,7 @@ I will cherish it
 To the end of my days
 
 I am not attached
-To my worldly possessions
+To worldly possessions
 I put hospitality above all
 I welcome a guest in my home
 Let’s share a meal and a merry song!
