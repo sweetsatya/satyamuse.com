@@ -264,6 +264,6 @@ The second verse originally had “qara köz” (black eyes); it’s been change
 
 ## Sources
 
-<a target="_blank" href="https://bilim-all.kz/olen/1846-Men-%E2%80%93-qazaqpyn">The original poem by Jǔban Moldaǧaliev in Kazakh (In Cyrillic).</a>
+<a target="_blank" href="https://bilim-all.kz/olen/1846-Men-%E2%80%93-qazaqpyn">The original poem by Jǔban Moldaǧaliev in Kazakh (in Cyrillic).</a>
 
 <a target="_blank" href="http://pushkinlibrary.kz/exhibitions/Zhuban/poema.html">Russian translation by Rimma Kazakova.</a>
