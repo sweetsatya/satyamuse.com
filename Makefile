@@ -6,6 +6,9 @@ SONGS := $(shell find inputs/lyrics/ -name '*.md')
 build: index.html
 	@echo "salem satya, your website is ready as index.html"
 
+serve: build
+	fileserver
+
 # we build the index.html file with template.html, lyrics.html, main.css and main.js as inputs
 #
 # We would want to have a pre-commit hook or similar to check that there's no diff between the text file and generated outputs
