@@ -3,6 +3,11 @@ html {
     background-color: black;
 }
 
+img {
+    max-width: 100%;
+    display: block;
+}
+
 body {
     font-family: 'Courier New', Courier, monospace;
     margin: 0;
@@ -36,6 +41,12 @@ ul.lyrics {
 
 #logo img {
     display: block;
+}
+
+img.centered {
+    float: left;
+    margin: auto;
+    max-width: 475px;
 }
 
 .container {
