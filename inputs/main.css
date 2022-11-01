@@ -198,8 +198,9 @@ ol {
     flex-grow: 1;
     /* Hide all pages initially */
     display: none;
-    width: 100%;
+    width: 90%;
     background-image: linear-gradient(255deg, #F9EDED, #FFD8D8);
+    padding: 0% 5%;
 }
 
 /* Show the default page and the one the user clicked on */
