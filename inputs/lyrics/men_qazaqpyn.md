@@ -111,7 +111,8 @@ Dispels the night
 
 I am a beauty
 With mischievous green eyes
-My song is enchanting and mellifluous
+When I sing
+Words flow like honey from my lips
 Once I love
 I love for life
 I have sharpened weapons
