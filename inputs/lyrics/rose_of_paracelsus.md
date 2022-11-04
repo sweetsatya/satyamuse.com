@@ -28,6 +28,7 @@ Life is flowing in my veins
 I'm your rose
 I'm your red rose
 But the time is flowing away
+Flowing away
 
 I wait for you in silence
 And in disgrace
@@ -57,6 +58,7 @@ Life is flowing in my veins
 I'm your rose
 I'm your red rose
 But the time is flowing away
+Flowing away
 Flowing away
 
 ## Russian Translation
