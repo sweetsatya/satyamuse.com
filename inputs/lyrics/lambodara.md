@@ -56,7 +56,7 @@ Om
 
 ## English Translation
 
-## Pot-Bellied
+## Pot-bellied
 
 Om
 
