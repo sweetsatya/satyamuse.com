@@ -9,33 +9,35 @@
   <script src="inputs/main.js"></script>
 </head>
 <body onload="init()">
-  <nav>
-    <div class="navbar">
-      <div class="container nav-container">
-          <input class="checkbox" type="checkbox" name="hamburger" />
-          <div class="hamburger-lines">
-            <span class="line line1"></span>
-            <span class="line line2"></span>
-            <span class="line line3"></span>
+  <div class="absolute-pusher">
+    <nav>
+      <div class="navbar">
+        <div class="container nav-container">
+            <input class="checkbox" type="checkbox" name="hamburger" />
+            <div class="hamburger-lines">
+              <span class="line line1"></span>
+              <span class="line line2"></span>
+              <span class="line line3"></span>
+            </div>
+          <div id="title">
+            <h1>SATYA</h1>
           </div>
-        <div id="title">
-          <h1>SATYA</h1>
-        </div>
-        <div id="logo">
-          <img src="images/tinygoldpanthericonblack.jpg" width="50px" height="50px"/>
-        </div>
+          <div id="logo">
+            <img src="images/tinygoldpanthericonblack.jpg" width="50px" height="50px"/>
+          </div>
 
-        <div class="menu-items">
-          <ul>
-          <li><a href="#home">Home</a></li>
-          <li><a href="#music">Music</a></li>
-          <li><a href="#fandom">Fandom</a></li>
-          <li><a href="#contact">Contact</a></li>
-          </ul>
+          <div class="menu-items">
+            <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#music">Music</a></li>
+            <li><a href="#fandom">Fandom</a></li>
+            <li><a href="#contact">Contact</a></li>
+            </ul>
+          </div>
         </div>
       </div>
-    </div>
-  </nav>
+    </nav>
+  </div>
   <div id="music" class="page">
     <h1>Album 1: New Beginnings</h1>
     <ol class="tracklist">
@@ -81,6 +83,7 @@
       </div>
     </div>
   </div>
+  <div class="absolute-pusher">
   <div id="footer-wrapper">
     <div id="footer" class="container">
       <p>&copy; SATYA</p>
@@ -89,5 +92,6 @@
       </a>
     </div>
   </div>
+</div>
 </body>
 </html>
