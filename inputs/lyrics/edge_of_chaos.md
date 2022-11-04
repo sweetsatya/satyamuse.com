@@ -67,7 +67,7 @@ On spaceship Earth
 
 ## Russian Translation
 
-## Край хаоса
+## Край Хаоса
 
 На границе между
 Хаосом и порядком
