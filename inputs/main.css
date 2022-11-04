@@ -22,7 +22,9 @@ body {
 }
 
 nav {
-    flex-grow: 0;
+    top: 0;
+    position: fixed;
+    width: 100%;
 }
 
 a:visited {
@@ -246,6 +248,9 @@ ol {
 
 #footer-wrapper {
     background-color: black;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
 }
 
 #footer {
