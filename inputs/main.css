@@ -175,24 +175,36 @@ ol {
 }
 
 .navbar ul {
-    padding: 0;
+    padding-top: 5px;
+    padding-left: 0px;
 }
 
-.navbar .menu-items {
-    display: flex;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    box-shadow: 10px 10px 5px rgba(244, 194, 194, 0.9);
-    /* background-color: rgb(255, 215, 0); */ /* gold */
-    background-color: #FFCFCF;
-    width: 190px;
-    transform: translate(-150%);
-    display: flex;
-    flex-direction: column;
-    transition: transform 0.5s ease-in-out;
+.nav-container input[type="checkbox"]:checked ~ .menu-items {
+     transform: translateY(125%);
+}
+
+.sun {
+   box-shadow: 0px 0px 20px 15px rgba(255, 248, 143, 0.9);
+   background-color: #FFDE5E;
+
+   /* experiment #1: cylindrical sun with sharp flat shadow */
+   /* box-shadow: 46px 48px 6px 6px rgba(255, 179, 0, 0.54); */
+
+   /* experiment #2: white shadow */
+   /* box-shadow: 0px 0px 40px 15px white; */
+
+   /* experiment #3: pink shadow for the pink background */
+   /* box-shadow: 5px 30px 2px rgba(244, 127, 194, 0.5); */
+
+    transition: transform 0.8s ease-in-out;
     text-align: center;
-    margin-left: -84px;
+    width: 250px;
+
+    margin-left: -115px;
+    margin-top: -250px;
     border-radius: 50%;
+    height: 250px;
+    position: absolute;
 }
 
 .navbar .menu-items li {
@@ -236,10 +248,6 @@ ol {
     display: none;
 }
 
-.nav-container input[type="checkbox"]:checked ~ .menu-items {
-    transform: translateX(0);
-}
-
 .nav-container input[type="checkbox"]:checked ~ .hamburger-lines .line1 {
     transform: rotate(45deg);
 }
@@ -276,4 +284,99 @@ ol {
 #footer p {
     color: #FFB81C;
     font-size: 1.15rem;
+}
+
+.ray_box {
+    position: absolute;
+    margin: auto;
+    top: 0px;
+    left: 0;
+    right: 0;
+    bottom: 0;	
+    animation: ray_anim 8s ease-in-out infinite;
+    z-index: -100;
+}
+
+.ray {
+    background: -webkit-linear-gradient(top, rgba(255,255,255,0.1) 0%, rgba(255, 248, 143, 0.9) 50%, rgba(255, 248, 143, 0.3) 100%);
+    margin-left: 10px;
+    border-radius: 60% 90% 0 0;
+    position: absolute;
+    opacity: 0.2;
+}
+
+.ray1 {
+    height:170px;
+    width:30px;
+    transform: rotate(180deg);
+    top:-175px;
+    left: 15px;
+}
+.ray2 {
+    height:130px;
+    width:20px;
+    transform: rotate(220deg);
+    top:-90px;
+    left: 75px;
+}
+.ray3 {
+    height:170px;
+    width:50px;
+    transform: rotate(250deg);
+    top:-80px;
+    left: 100px;
+}
+.ray4 {
+    height:120px;
+    width:14px;
+    transform: rotate(305deg);
+    top:30px;
+    left: 100px;
+}
+.ray5 {
+    height:140px;
+    width:30px;
+    transform: rotate(-15deg);
+    top:60px;
+    left: 40px;
+}
+.ray6 {
+    height:90px;
+    width:50px;
+    transform: rotate(30deg);
+    top:60px;
+    left: -40px;
+}
+.ray7 {
+    height:180px;
+    width:10px;
+    transform: rotate(70deg);
+    top:-35px;
+    left: -40px;
+}
+.ray8 {
+    height:120px;
+    width:30px;
+    transform: rotate(100deg);
+    top:-45px;
+    left:-90px;
+}
+.ray9 {
+    height:80px;
+    width:10px;
+    transform: rotate(120deg);
+    top:-65px;
+    left:-60px;
+}
+.ray10 {
+    height:190px;
+    width:23px;
+    transform: rotate(150deg);
+    top:-185px;
+    left: -60px;
+}
+
+@keyframes ray_anim {
+        0% { transform: rotate(0deg);}
+    100% { transform: rotate(360deg);}
 }
