@@ -37,7 +37,7 @@ And bask in the joy of the whole family
 The steppe and that voice, two-stringed and melodious
 And mighty free horses call from within
 And I feel anew the power and wildness
-That rest, ever dormant, in my daily routine
+That stay ever dormant in my daily routine
 
 I know not if I can tear myself away
 From this cozy life for a moment at least
