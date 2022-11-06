@@ -9,7 +9,8 @@ Everliving fire
 He left his family in Ephesus
 And traveled by foot
 To explore the world
-While questioning himself on his way
+While questioning himself
+On his way
 To eternal Truth
 
 Panta rhei, panta rhei
@@ -30,7 +31,8 @@ In sight, in deed
 Yet all things scatter and come together
 Approach and then recede
 So it is futile to hold on to the past
-And this moment will not repeat
+And this moment
+Will not repeat
 
 You can’t step into the same river twice
 
