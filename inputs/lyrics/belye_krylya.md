@@ -50,6 +50,7 @@ Everything’s as clear as day
 And my soul is thriving again
 I’m a free bird soaring high
 In the vast blue sky
+Sky
 
 I am flying, I am flying
 And I’m no longer denying
@@ -66,6 +67,7 @@ And the vast sky
 But my love for you has inspired
 My life and my deepest desires
 It unleashed my vast imagination
+Imagination
 
 I am flying, I am flying
 And I’m no longer denying
