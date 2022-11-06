@@ -36,7 +36,7 @@ Round and round and round we go
 
 ## Russian Translation
 
-## Божественная Игра
+## Божественная Игра (लीला)
 
 Вуали вуали вуали вуали
 Круг за кругом мы идём
