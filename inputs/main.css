@@ -185,7 +185,8 @@ ol {
 
 .sun {
    box-shadow: 0px 0px 20px 15px rgba(255, 248, 143, 0.9);
-   background-color: #FFDE5E;
+   background-color: #FFEEBC;
+   /* background-color: #FFDE5E; */
 
    /* experiment #1: cylindrical sun with sharp flat shadow */
    /* box-shadow: 46px 48px 6px 6px rgba(255, 179, 0, 0.54); */
