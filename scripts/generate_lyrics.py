@@ -50,10 +50,12 @@ def parseFile(file):
 
         # TODO: add parsing of "[x](link)" -> '<a href="link">x</a>'
         # If a line begins with '##' it's assumed to be a subtitle
-        if lines[0][0:2] == "##":
+        headingLine = lines[0] # e.g '# Credits'
+        if headingLine[0:2] == "##":
             print(f'Processing first line "{lines[0]}"', file=sys.stderr)
-            assert len(lines) == 1, f'Line with "##" should be in its own stanza; please put newlines around "{lines[0]}"'
-            subHeading = lines[0][2:].lstrip()
+            assert len(lines) == 1, \
+                   f'💜 Hey Satya 🤪: Line with "##" should be in its own stanza; please put newlines around "{lines[0]}"'
+            subHeading = headingLine[2:].lstrip()
             print(f'Adding sub-header "{subHeading}"', file=sys.stderr)
             result.append(f'<h3>{subHeading}</h3>')
             continue

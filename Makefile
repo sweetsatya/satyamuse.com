@@ -21,4 +21,4 @@ index.html: lyrics.html inputs/template.html inputs/main.css inputs/main.js
 # Ideal would be to not need to list all the files as inputs into lyrics.html
 lyrics.html: $(SONGS)
 	@echo "generating $@ from lyrics/.."
-	python3 scripts/generate_lyrics.py > lyrics.html
+	@bash scripts/generate_lyrics.sh
