@@ -47,7 +47,7 @@ And accept our duty at last?
 Don’t you fear to aim very high, my friend
 Trust yourself and don’t hesitate
 Be aware your time is not limitless
-And that our whole future's at stake
+And that our whole future is at stake
 
 And don’t fear that you are alone, my friend
 In this world there are others like you
