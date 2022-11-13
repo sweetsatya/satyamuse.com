@@ -72,8 +72,8 @@ Imagination
 I am flying, I am flying
 And I’m no longer denying
 The divinity that flows within me
-I’m not afraid of those reproaches
-That have long kept from flying
+I’m not afraid of all that chiding
+That has long kept me in hiding
 I let go of guilt and those sad feelings
 
 I am flying, I am flying
