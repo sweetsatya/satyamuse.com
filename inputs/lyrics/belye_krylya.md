@@ -65,7 +65,7 @@ And I didn’t know that
 My home is both the Earth
 And the vast sky
 But my love for you has inspired
-My life and my deepest desires
+My heart and my deepest desires
 It unleashed my vast imagination
 Imagination
 
