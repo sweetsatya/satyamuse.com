@@ -29,7 +29,7 @@ And the Sun is so scorching
 It’s watching me and you
 
 Are we like cellular automata
-To the Gods above us?
+To the gods above us?
 We grow, procreate, self-annihilate
 We rise and fall
 We’re neither random nor regular
@@ -55,7 +55,7 @@ And I’m dreaming, I’m dreaming
 That I am your wife
 
 Are we like cellular automata
-To the Gods within us?
+To the gods within us?
 We search, we discover, we integrate
 We dream and feel
 We’re neither random nor regular
@@ -98,9 +98,8 @@ On spaceship Earth
 Оно смотрит на нас
 
 Может быть мы kлеточные автоматы
-Для Богов над нами?
-Растя, размножаясь
-Самоуничтожаясь
+Для богов над нами?
+Растя, размножаясь, самоуничтожаясь
 Чуть являсь, исчезаем
 Мы на случайны и не регулярны
 Мы спонтанны
@@ -124,9 +123,8 @@ On spaceship Earth
 Где я твоя жена
 
 Может быть мы kлеточные автоматы
-Для Богов внутри нас?
-Ищя, раскрывая
-Объединяя
+Для богов внутри нас?
+Ищя, раскрывая, объединяя
 Мечтая и чувствуя
 Мы на случайны и не регулярны
 Мы таинственны
