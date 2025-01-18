@@ -1,4 +1,4 @@
-# satyasings.com
+# satyamuse.com
 Website related info
 
 DO NOT edit index.html and lyrics.html. They are output files.
